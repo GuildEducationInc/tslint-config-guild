@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "tslint-config-standard",
+    "tslint-no-circular-imports"
+  ],
+  "rules": {
+    "no-constant-condition": true,
+    "space-before-function-paren": [true, { "asyncArrow": "always", "anonymous": "never", "named": "never" }]
+  }
+}
