@@ -9,7 +9,8 @@
   "private": false,
   "dependencies": {
     "tslint-config-standard": "^7.1.0",
-    "tslint-no-circular-imports": "^0.5.0"
+    "tslint-no-circular-imports": "^0.5.0",
+    "tslint-no-unused-expression-chai": "^0.1.4"
   },
   "peerDependencies": {
     "tslint": "^5.11.0"
