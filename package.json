@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-guild",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Guild TSLint shared config",
   "main": "index.js",
   "repository": "https://github.com/GuildEducationInc/tslint-config-guild.git",
