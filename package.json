@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-guild",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Guild TSLint shared config",
   "main": "index.js",
   "repository": "https://github.com/GuildEducationInc/tslint-config-guild.git",
@@ -9,7 +9,8 @@
   "private": false,
   "dependencies": {
     "tslint-config-standard": "^7.1.0",
-    "tslint-no-circular-imports": "^0.5.0"
+    "tslint-no-circular-imports": "^0.5.0",
+    "tslint-no-unused-expression-chai": "^0.1.4"
   },
   "peerDependencies": {
     "tslint": "^5.11.0"
