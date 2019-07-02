@@ -1,4 +1,9 @@
 ![npm](https://img.shields.io/npm/v/tslint-config-guild.svg)
+
+# DEPRECATED
+
+As [tslint is being deprecated in favor of eslint](https://medium.com/palantir/tslint-in-2019-1a144c2317a9), we have transitioned [our eslint config](https://github.com/GuildEducationInc/eslint-config-guild) to now support TypeScript
+
 # Guild Education TypeScript Style
 
 At Guild, our TypeScript style is based on [JavaScript Standard Style](https://standardjs.com/rules.html) with a few exceptions:
