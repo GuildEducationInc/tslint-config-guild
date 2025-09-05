@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+>
+> This project is deprecated and is read-only for historical context only.
+
 ![npm](https://img.shields.io/npm/v/tslint-config-guild.svg)
 
 # DEPRECATED
